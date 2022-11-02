@@ -1,6 +1,6 @@
 {
-  "version": "v17.43.36 17.43.36",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/FatGrizzly/build-apps/releases/download/3/youtube-revanced-magisk-v17.43.36-all.zip",
+  "version": "v17.43.36",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/FatGrizzly/build-apps/releases/download/4/youtube-revanced-magisk-v17.43.36-all.zip",
   "changelog": "https://raw.githubusercontent.com/FatGrizzly/build-apps/update/build.md"
 }
