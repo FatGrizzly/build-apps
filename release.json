@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/82196401",
-  "assets_url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/82196401/assets",
-  "upload_url": "https://uploads.github.com/repos/FatGrizzly/build-apps/releases/82196401/assets{?name,label}",
-  "html_url": "https://github.com/FatGrizzly/build-apps/releases/tag/7",
-  "id": 82196401,
+  "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/82197750",
+  "assets_url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/82197750/assets",
+  "upload_url": "https://uploads.github.com/repos/FatGrizzly/build-apps/releases/82197750/assets{?name,label}",
+  "html_url": "https://github.com/FatGrizzly/build-apps/releases/tag/8",
+  "id": 82197750,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIVqrxc4E5jex",
-  "tag_name": "7",
+  "node_id": "RE_kwDOIVqrxc4E5jz2",
+  "tag_name": "8",
   "target_commitish": "main",
   "name": "v2022-11-06",
   "draft": false,
   "prerelease": false,
-  "created_at": "2022-11-01T16:13:27Z",
-  "published_at": "2022-11-06T14:42:13Z",
+  "created_at": "2022-11-06T15:21:08Z",
+  "published_at": "2022-11-06T15:30:41Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83642948",
-      "id": 83642948,
-      "node_id": "RA_kwDOIVqrxc4E_EpE",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646298",
+      "id": 83646298,
+      "node_id": "RA_kwDOIVqrxc4E_Fda",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201369,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:14Z",
-      "updated_at": "2022-11-06T14:42:14Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/mindetach.zip"
+      "created_at": "2022-11-06T15:30:41Z",
+      "updated_at": "2022-11-06T15:30:42Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83642952",
-      "id": 83642952,
-      "node_id": "RA_kwDOIVqrxc4E_EpI",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646299",
+      "id": 83646299,
+      "node_id": "RA_kwDOIVqrxc4E_Fdb",
       "name": "music-revanced-magisk-v5.31.50-arm-v7a.zip",
       "label": "",
       "uploader": {
@@ -95,16 +95,16 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 47576289,
+      "size": 47591729,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:14Z",
-      "updated_at": "2022-11-06T14:42:16Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/music-revanced-magisk-v5.31.50-arm-v7a.zip"
+      "created_at": "2022-11-06T15:30:42Z",
+      "updated_at": "2022-11-06T15:30:44Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/music-revanced-magisk-v5.31.50-arm-v7a.zip"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83642962",
-      "id": 83642962,
-      "node_id": "RA_kwDOIVqrxc4E_EpS",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646300",
+      "id": 83646300,
+      "node_id": "RA_kwDOIVqrxc4E_Fdc",
       "name": "music-revanced-magisk-v5.31.50-arm64-v8a.zip",
       "label": "",
       "uploader": {
@@ -129,16 +129,16 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 51035065,
+      "size": 51030241,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:16Z",
-      "updated_at": "2022-11-06T14:42:18Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/music-revanced-magisk-v5.31.50-arm64-v8a.zip"
+      "created_at": "2022-11-06T15:30:44Z",
+      "updated_at": "2022-11-06T15:30:45Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/music-revanced-magisk-v5.31.50-arm64-v8a.zip"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83642975",
-      "id": 83642975,
-      "node_id": "RA_kwDOIVqrxc4E_Epf",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646316",
+      "id": 83646316,
+      "node_id": "RA_kwDOIVqrxc4E_Fds",
       "name": "music-revanced-v5.31.50-arm-v7a.apk",
       "label": "",
       "uploader": {
@@ -165,14 +165,14 @@
       "state": "uploaded",
       "size": 56973573,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:18Z",
-      "updated_at": "2022-11-06T14:42:19Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/music-revanced-v5.31.50-arm-v7a.apk"
+      "created_at": "2022-11-06T15:30:46Z",
+      "updated_at": "2022-11-06T15:30:47Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/music-revanced-v5.31.50-arm-v7a.apk"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83642983",
-      "id": 83642983,
-      "node_id": "RA_kwDOIVqrxc4E_Epn",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646317",
+      "id": 83646317,
+      "node_id": "RA_kwDOIVqrxc4E_Fdt",
       "name": "music-revanced-v5.31.50-arm64-v8a.apk",
       "label": "",
       "uploader": {
@@ -197,16 +197,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 66193643,
+      "size": 66181355,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:20Z",
-      "updated_at": "2022-11-06T14:42:21Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/music-revanced-v5.31.50-arm64-v8a.apk"
+      "created_at": "2022-11-06T15:30:48Z",
+      "updated_at": "2022-11-06T15:30:50Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/music-revanced-v5.31.50-arm64-v8a.apk"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83642995",
-      "id": 83642995,
-      "node_id": "RA_kwDOIVqrxc4E_Epz",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646320",
+      "id": 83646320,
+      "node_id": "RA_kwDOIVqrxc4E_Fdw",
       "name": "reddit-revanced-v2022.41.1-all.apk",
       "label": "",
       "uploader": {
@@ -231,16 +231,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 251231853,
+      "size": 250715757,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:22Z",
-      "updated_at": "2022-11-06T14:42:27Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/reddit-revanced-v2022.41.1-all.apk"
+      "created_at": "2022-11-06T15:30:51Z",
+      "updated_at": "2022-11-06T15:30:56Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/reddit-revanced-v2022.41.1-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83643028",
-      "id": 83643028,
-      "node_id": "RA_kwDOIVqrxc4E_EqU",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646325",
+      "id": 83646325,
+      "node_id": "RA_kwDOIVqrxc4E_Fd1",
       "name": "spotify-revanced-v8.7.78.383-all.apk",
       "label": "",
       "uploader": {
@@ -265,16 +265,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 100403944,
+      "size": 100420328,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:27Z",
-      "updated_at": "2022-11-06T14:42:29Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/spotify-revanced-v8.7.78.383-all.apk"
+      "created_at": "2022-11-06T15:30:56Z",
+      "updated_at": "2022-11-06T15:30:59Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/spotify-revanced-v8.7.78.383-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83643044",
-      "id": 83643044,
-      "node_id": "RA_kwDOIVqrxc4E_Eqk",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646332",
+      "id": 83646332,
+      "node_id": "RA_kwDOIVqrxc4E_Fd8",
       "name": "tiktok-revanced-v26.7.15-all.apk",
       "label": "",
       "uploader": {
@@ -299,16 +299,16 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 313434959,
+      "size": 313611087,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:30Z",
-      "updated_at": "2022-11-06T14:42:36Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/tiktok-revanced-v26.7.15-all.apk"
+      "created_at": "2022-11-06T15:30:59Z",
+      "updated_at": "2022-11-06T15:31:05Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/tiktok-revanced-v26.7.15-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83643105",
-      "id": 83643105,
-      "node_id": "RA_kwDOIVqrxc4E_Erh",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646338",
+      "id": 83646338,
+      "node_id": "RA_kwDOIVqrxc4E_FeC",
       "name": "twitter-revanced-v9.65.1-release.0-all.apk",
       "label": "",
       "uploader": {
@@ -333,17 +333,17 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 145499776,
+      "size": 145888896,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:37Z",
-      "updated_at": "2022-11-06T14:42:40Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/twitter-revanced-v9.65.1-release.0-all.apk"
+      "created_at": "2022-11-06T15:31:06Z",
+      "updated_at": "2022-11-06T15:31:08Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/twitter-revanced-v9.65.1-release.0-all.apk"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83643125",
-      "id": 83643125,
-      "node_id": "RA_kwDOIVqrxc4E_Er1",
-      "name": "youtube-revanced-magisk-v17.44.34-all.zip",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646346",
+      "id": 83646346,
+      "node_id": "RA_kwDOIVqrxc4E_FeK",
+      "name": "youtube-revanced-magisk-v17.43.36-all.zip",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -367,17 +367,17 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 142844716,
+      "size": 142654391,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:41Z",
-      "updated_at": "2022-11-06T14:42:44Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/youtube-revanced-magisk-v17.44.34-all.zip"
+      "created_at": "2022-11-06T15:31:09Z",
+      "updated_at": "2022-11-06T15:31:12Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/youtube-revanced-magisk-v17.43.36-all.zip"
     },
     {
-      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83643141",
-      "id": 83643141,
-      "node_id": "RA_kwDOIVqrxc4E_EsF",
-      "name": "youtube-revanced-v17.44.34-all.apk",
+      "url": "https://api.github.com/repos/FatGrizzly/build-apps/releases/assets/83646353",
+      "id": 83646353,
+      "node_id": "RA_kwDOIVqrxc4E_FeR",
+      "name": "youtube-revanced-v17.43.36-all.apk",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -401,14 +401,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 115046548,
+      "size": 114721753,
       "download_count": 0,
-      "created_at": "2022-11-06T14:42:45Z",
-      "updated_at": "2022-11-06T14:42:47Z",
-      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/7/youtube-revanced-v17.44.34-all.apk"
+      "created_at": "2022-11-06T15:31:14Z",
+      "updated_at": "2022-11-06T15:31:16Z",
+      "browser_download_url": "https://github.com/FatGrizzly/build-apps/releases/download/8/youtube-revanced-v17.43.36-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/FatGrizzly/build-apps/tarball/7",
-  "zipball_url": "https://api.github.com/repos/FatGrizzly/build-apps/zipball/7",
-  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.67.0.apk  \nPatches: revanced-patches-2.104.0.jar  \n\n### [2.104.0](https://github.com/revanced/revanced-patches/compare/v2.103.0...v2.104.0) (2022-11-06)\n### Features\n* **hexeditor:** `disable-ads` patch ([#973](https://github.com/revanced/revanced-patches/issues/973)) ([a48e5fd](https://github.com/revanced/revanced-patches/commit/a48e5fd50dcf9ee061ffd5c5ed0b997067f40652))\n\n  \nYouTube: 17.44.34  \nMusic (arm64-v8a): 5.31.50  \nMusic (arm-v7a): 5.31.50  \nTwitter: 9.65.1-release.0  \nReddit: 2022.41.1  \nTikTok: 26.7.15  \nSpotify: 8.7.78.383  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/FatGrizzly/build-apps/tarball/8",
+  "zipball_url": "https://api.github.com/repos/FatGrizzly/build-apps/zipball/8",
+  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.67.0.apk  \nPatches: revanced-patches-2.104.0.jar  \n\n### [2.104.0](https://github.com/revanced/revanced-patches/compare/v2.103.0...v2.104.0) (2022-11-06)\n### Features\n* **hexeditor:** `disable-ads` patch ([#973](https://github.com/revanced/revanced-patches/issues/973)) ([a48e5fd](https://github.com/revanced/revanced-patches/commit/a48e5fd50dcf9ee061ffd5c5ed0b997067f40652))\n\n  \nYouTube: 17.43.36  \nMusic (arm64-v8a): 5.31.50  \nMusic (arm-v7a): 5.31.50  \nTwitter: 9.65.1-release.0  \nReddit: 2022.41.1  \nTikTok: 26.7.15  \nSpotify: 8.7.78.383  \n\nUse microg for non root YT apks"
 }
