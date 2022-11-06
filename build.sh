@@ -38,12 +38,6 @@ if ((COMPRESSION_LEVEL > 9)) || ((COMPRESSION_LEVEL < 1)); then
 fi
 
 build_youtube
-build_music $ARM64_V8A
-build_music $ARM_V7A
-build_twitter
-build_reddit
-build_tiktok
-build_spotify
 build_warn_wetter
 
 if [ "$BUILD_MINDETACH_MODULE" = true ]; then
