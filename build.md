@@ -7,7 +7,7 @@ Patches: revanced-patches-2.104.0.jar
 * **hexeditor:** `disable-ads` patch ([#973](https://github.com/revanced/revanced-patches/issues/973)) ([a48e5fd](https://github.com/revanced/revanced-patches/commit/a48e5fd50dcf9ee061ffd5c5ed0b997067f40652))
 
   
-YouTube: 17.44.34  
+YouTube: 17.43.36  
 Music (arm64-v8a): 5.31.50  
 Music (arm-v7a): 5.31.50  
 Twitter: 9.65.1-release.0  
