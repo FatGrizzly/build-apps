@@ -8,11 +8,5 @@ Patches: revanced-patches-2.104.0.jar
 
   
 YouTube: 17.43.36  
-Music (arm64-v8a): 5.31.50  
-Music (arm-v7a): 5.31.50  
-Twitter: 9.65.1-release.0  
-Reddit: 2022.41.1  
-TikTok: 26.7.15  
-Spotify: 8.7.78.383  
 
 Use microg for non root YT apks  
