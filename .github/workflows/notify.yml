@@ -33,6 +33,13 @@ jobs:
 
       - name: Run telegram notification script
         run: python3 telegram-script
+
+      - name: Commit release description changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update telegram release message ${{ github.run_id }}
+          branch: update
+          file_pattern: '*.md'
           
       - name: Telegram Channel Update
         uses: appleboy/telegram-action@master
