@@ -1,0 +1,14 @@
+*.jar
+*.apk
+*.zip
+/revanced-cache
+/temp
+/build
+build.md
+/test
+*.keystore
+!base-v17.24.34.apk
+.v*
+
+# Telegram script ignore
+__pycache__
