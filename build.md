@@ -14,7 +14,7 @@ Patches: revanced-patches-2.159.0.jar
 
   
 **App Versions:**  
-YouTube: 18.04.41  
+YouTube: 18.05.34  
 Music (arm64-v8a): 5.42.50  
 Music (arm-v7a): 5.42.50  
 Twitter: 9.69.1-release.0  
@@ -23,6 +23,7 @@ Twitch: 14.4.0
 TikTok: 27.8.3  
 Spotify: 8.8.6.472  
 Citra: bed6a4f12  
+Backdrops: 4.52  
 WarnWetter: 4.0.7  
 Windyapp: 34.0.2  
 MyExpenses: 3.4.8  
